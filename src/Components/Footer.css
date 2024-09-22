@@ -1,0 +1,15 @@
+.footerIcons {
+    /* margin: auto; */
+    text-align: center;
+    margin-bottom: 80px;
+    a + a {
+        margin-left: 30px;
+    }
+
+    p {
+        color: gray;
+        font-size: medium;
+        font-style: italic;
+    }
+
+}

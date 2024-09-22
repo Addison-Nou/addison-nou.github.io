@@ -1,0 +1,25 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #2b2739;
+
+    ul {
+        list-style-type: none;
+    }
+
+    a {
+        text-decoration: none;
+        color: #d8d8d8;
+        font-weight: bold;
+        margin-right: 30px;
+    }
+
+    a:hover {
+        color: blue;
+    }
+    
+}
+

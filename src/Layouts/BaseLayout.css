@@ -1,0 +1,9 @@
+.baseLayout {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.baseLayoutBody{
+    flex-grow: 1;
+}
